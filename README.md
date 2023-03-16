@@ -5,7 +5,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ## Overview
 
 ### Screenshot
-![Alt text](../../../../../../Pictures/3column%20preview%20card.png)
+![Alt text](images/3column%20preview%20card.png)
 
 
 ### Links
